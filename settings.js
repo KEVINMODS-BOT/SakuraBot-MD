@@ -2,16 +2,16 @@ import { watchFile, unwatchFile } from "fs"
 import chalk from "chalk"
 import { fileURLToPath } from "url"
 
-global.botNumber = ""
+global.botNumber = "5493625699981"
 
-global.owner = ["5492916450307"]
+global.owner = ["5493624187763"]
 
-global.botname = '🕸 SakuraBot-MD'
-global.namebot = '🥗 Sakura Bot'
-global.bot = 'SakuraBot'
-global.packname = '🐸 𝗦𝗮𝗸𝘂𝗿𝗮𝗕𝗼𝘁-𝗠𝗗'
-global.wm = '🌿 𝙎𝙖𝙠𝙪𝙧𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '🥗 DevAlexJs'
+global.botname = '🕸 SPIDERBOT-MD'
+global.namebot = '🥗 Spider Bot'
+global.bot = 'Spiderbot'
+global.packname = '🐸 SPIDERBOT-MD'
+global.wm = '🌿 Spiderbot-MD'
+global.author = '🥗 kevinmodz'
 global.dev = '© Pᴏᴡᴇʀᴇᴅ Bʏ DᴇᴠAʟᴇxJs.'
 
 global.banner = 'https://stellarwa.xyz/files/1757377941018.jpeg'
